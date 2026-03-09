@@ -1,0 +1,7 @@
+.env
+.venv
+__pycache__
+ml/models
+ml/data
+ml/notebooks
+ml/vectorizers

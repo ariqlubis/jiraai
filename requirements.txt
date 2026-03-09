@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+kaggle
+python-dotenv
+jupyter
+matplotlib
+seaborn
+tqdm
+atlassian-python-api
+loguru
+google-cloud-aiplatform
