@@ -1,0 +1,9 @@
+-r requirements.txt
+jupyter
+kaggle
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+tqdm
